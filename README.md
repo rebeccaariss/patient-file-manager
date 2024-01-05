@@ -12,6 +12,15 @@ As a clinic assistant, I aim to facilitate the efficient management of patient f
    - VueJS.
    - Nuxt
 
+## Supplementary documentation:
+
+1. https://firebase.google.com/docs/admin/setup
+2. https://www.apollographql.com/docs/apollo-server/getting-started/
+3. https://expressjs.com/en/starter/hello-world.html
+4. https://vuejs.org/guide/quick-start
+5. https://nuxt.com/docs/getting-started/installation
+
+
 ## Required Features:
 
 ### File Upload:
