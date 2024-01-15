@@ -1,4 +1,10 @@
-# Patient File Manager Assignment:
+## Quick Start
+
+Please fork this repository and then email the final github repository url to dhaval@sentryhealth.ca when the assignment is completed.
+
+Feel free to interpret the instructions in any way you want. They are intentionally left open to allow for freedom in how the assignment is completed. Looking forward to seeing what creative solutions are submitted.
+
+## Patient File Manager Assignment:
 
 As a clinic assistant, I aim to facilitate the efficient management of patient files, allowing doctors to seamlessly reference files and associated comments during appointments.
 
@@ -38,7 +44,7 @@ As a clinic assistant, I aim to facilitate the efficient management of patient f
 1. **Unique Identification:**
    - Should be able to uniquely determine the patient of a file.
 
-## Optional Enhancements:
+## Optional Requirements:
 
 ### Authentication/Authorization:
 1. **Access Control:**
